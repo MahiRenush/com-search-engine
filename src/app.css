@@ -1,0 +1,19 @@
+body {
+    background: rgb(3, 4, 78);
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.5rem;
+    background: #000;
+}
+.body-content{
+    display: flex;
+    flex-wrap: wrap;
+}
+.content-center{
+    justify-content: center;
+}
